@@ -1,4 +1,3 @@
-# Method Arguments Lab
 
 ## Objectives
 
